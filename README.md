@@ -26,6 +26,11 @@ Explore the codebase to understand how canvas drawing is implemented using Kotli
 Contributing
 Contributions are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
 
+## Screenshots
+
+![Screenshot 1](app/src/main/res/screenshots/canvas1.jpg)
+![Screenshot 2](app/src/main/res/screenshots/canvas2.jpg)
+
 License
 This project is licensed under the MIT License.
 
