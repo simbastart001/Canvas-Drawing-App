@@ -16,6 +16,7 @@ private const val STROKE_WIDTH = 12f // has to be float
 class MyCanvasView(context: Context) : View(context) {
     private lateinit var extraCanvas: Canvas
     private lateinit var extraBitmap: Bitmap
+
     private var motionTouchEventX = 0f
     private var motionTouchEventY = 0f
     private var currentX = 0f
